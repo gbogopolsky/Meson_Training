@@ -1,1 +1,3 @@
-*/build/*
+**/build
+/04-Wrap/subprojects/cpr-1.3.0/
+**/packagecache
